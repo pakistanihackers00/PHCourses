@@ -1,0 +1,4 @@
+cat test_file.txt | while read saver                    # Saving the file through file loop.
+do    
+echo $saver                                             # Reading the file.
+done

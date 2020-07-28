@@ -1,0 +1,4 @@
+read -p "Enter your name: "                 # Message.
+echo "Your name is $REPLY"                  # REPLY is by default variable 
+                                            # and now we are showing it what 
+                                            # is in the REPLY variable.

@@ -1,0 +1,3 @@
+echo "Enter the names of list down below (maximum three): "                                   # Message.
+read -a name_var                                                                              # "-a" mean Array. So, Take input as a Array.
+echo "You enter these name :   1:${name_var[0]}   2:${name_var[1]}   3:${name_var[2]}."       # Printing through Index numbe.

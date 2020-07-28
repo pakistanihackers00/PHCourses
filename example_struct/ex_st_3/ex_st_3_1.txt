@@ -1,0 +1,3 @@
+echo "Enter Your name : "                   # Printing a message.
+read name                                   # Taking input and store it in "name" variable.
+echo "You entered this name $name"          # Printing message plus variable.

@@ -1,0 +1,8 @@
+echo -e "1: Enter the names of list (at least two): \c"                                                            # Printing message for input.
+read -a name_of_arr2                                                                                               # Taking Input for Array.
+echo "2: Printing with Index Numbers :   0:${name_of_arr2[0]}   2:${name_of_arr2[3]}."                             # Printing through Array.
+echo "3: Printed all of the above Array you enterd : ${name_of_arr2[@]}"                                           # Printing the Array.
+echo "4: PrintOut the Index Numbers: ${!name_of_arr2[@]}"                                                          # Printing the index numbers.
+echo "5: PrintOut length of array: ${#name_of_arr2[@]}"                                                            # Printing the length of Array.
+unset name_of_arr2[0]                                                                                              # Deleting the array.
+echo "6: Now here I removed the '0' indexed array so it will not print '0' index word: "   ${name_of_arr2[@]}      # Confirming that its Gone or Not.

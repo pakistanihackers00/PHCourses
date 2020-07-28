@@ -1,0 +1,13 @@
+echo -e "Enter a file name : \c"           # Printing a message for input.
+read file_name                             # Taking Input.
+if [ -e $file_name ]                       # Making Logic If this file Name are exist show true part if not show false part.
+then
+    if [ -f $file_name ]                   # Again Making logic if this is a file not a directory then show true part other show else partion.
+    then
+        echo -e "[*] '$file_name' isn't Empty!"
+    else
+        echo -e "[*] '$file_name' is Empty!"
+    fi
+else
+    echo -e "[*] '$file_name' is not even exist!"
+fi                                           # Ending of If condtion.

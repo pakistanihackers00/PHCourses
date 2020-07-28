@@ -1,0 +1,9 @@
+name_of_arr=("Array_1" "Array_2")                                                      # Declaring array and printing it.
+
+echo "1: This is the whole array: ${name_of_arr[@]}"                                   # Printing whole array. 
+echo "2: This is printing out through index: ${name_of_arr[1]}"                        # Printing through Indexing.
+echo "3: Print out the Index Numbers: ${!name_of_arr[@]}"                              # Printing the index No.
+echo "4: Print out length of array: ${#name_of_arr[@]}"                                # Printing lentgth of array.
+
+unset name_of_arr[@]            # Or 'unset name_of_arr' or 'unset name_of_arr[1]'     # unset removed when want.
+echo "5: Now I removed the array so it will print nothing: "   ${name_of_arr[@]}

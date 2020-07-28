@@ -1,0 +1,4 @@
+while IFS= read -r saver                # Internal Feel Separator (IFS)     
+do
+    echo $saver                         # For Printing.
+done < fullcourse.sh                    # For Saving

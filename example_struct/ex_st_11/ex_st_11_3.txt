@@ -1,0 +1,5 @@
+method_3(){                                                 # Delaring Function without "function" keyword.
+    echo -e "Your first parameter is '$1'"                  # Printing message with already tooked arguments.
+    echo -e "Your Second parameter is '$2'\n"               # Same as above but its a second argument.
+}
+method_3 Killer Frost                                       # Here its printed with two arguments/parameter which is "Killer" & "Frost".

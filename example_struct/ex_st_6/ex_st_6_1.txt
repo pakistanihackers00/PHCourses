@@ -1,0 +1,13 @@
+age=1                                               # Delaration of var.
+    if (( $age > 40  && $age <60 ))                 # startup of IF Statement, '&&' its mean AND.
+    then
+        echo "Oldest!"
+    elif [ $age -gt 20 -a $age -le 40 ]             # '-a' its also means AND.
+    then
+        echo "Older"
+    elif [ $age -gt 10 ] && [ $age -le 20]          # We can also in this form.
+    then 
+        echo "Old!"                                 
+    else
+        echo "Child!"                               # By default statement.
+    fi                                              # Endup of IF statement.

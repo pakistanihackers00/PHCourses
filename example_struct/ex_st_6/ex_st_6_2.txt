@@ -1,0 +1,13 @@
+age=20                                                                                  # Delaration of var.
+    if (( $age > 40  && $age <60 )) || (( $age >= 40  && $age <=60 ))                   # startup of IF Statement, '||' its mean OR.
+    then
+        echo "Oldest!"
+    elif [ $age -gt 20 -a $age -lt 40 ] -O [ $age -ge 20 -a $age -le 40 ]               # '-o' its also means OR.
+    then
+        echo "Older"
+    elif [ $age -gt 10 ] && [ $age -lt 20] || [ $age -ge 10 ] && [ $age -le 20] 
+    then 
+        echo "Old!"
+    else
+        echo "Child!"                                                                   # By default statement.
+    fi                                                                                  # Endup of IF statement.

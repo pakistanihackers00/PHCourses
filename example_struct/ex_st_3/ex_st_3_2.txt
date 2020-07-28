@@ -1,0 +1,5 @@
+read -p "Username : " user_var         # "-p" flag take in that line.
+read -sp "Password : " pass_var        # "-s" flag take input but invisible.
+echo                                   # newline
+echo "The user name is $user_var"      # Printing
+echo "The password is $pass_var"

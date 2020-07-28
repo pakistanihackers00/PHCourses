@@ -1,0 +1,7 @@
+function method_1(){                                                # Declaring of Function/Methods by name of method_1.
+    echo -e "\n----------ls---------"
+    ls
+    echo -e "\n----------pwd--------"
+    pwd
+}                                                                   # Closing the Function/ Method.
+method_1                                                            # Printing the function in main area.

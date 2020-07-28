@@ -1,0 +1,7 @@
+method_2(){                                                     # Declaring the Function/Method without "function" keyword by name of " method_2".
+    echo -e "\n----------ls---------"
+    ls
+    echo -e "\n----------pwd--------"
+    pwd
+}                                                               # Closing the Function/Method
+method_2                                                        # Printing out the Function/Method.

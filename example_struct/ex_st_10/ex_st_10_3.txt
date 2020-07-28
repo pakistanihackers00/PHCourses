@@ -1,0 +1,4 @@
+while read saver                        # Taking input from down file name.
+do
+    echo $saver                         # Printing that file.
+done < test_file.txt                    # Its a file name for giving Input to read it.
