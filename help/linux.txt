@@ -7,6 +7,6 @@ HELP:
  So, I will go the Downloads folder first then I will Run these below commands:
  
  root@myuser: cd Downloads
- root@myuser: chmod -R +x courses-PH
- root@myuser: cd courses-PH/bash_Course/
+ root@myuser: chmod -R +x sh_courses-PH
+ root@myuser: cd sh_courses-PH/
  root@myuser: ./fullcourse.sh
