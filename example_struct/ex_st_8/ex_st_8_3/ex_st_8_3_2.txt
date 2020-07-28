@@ -1,0 +1,4 @@
+for var in {1..5..1}                        # it will print 1 to 5 repeaditly and 1 will increment.
+do
+    echo "$var: Hello World!"               # Print that variable 5 Times.
+done

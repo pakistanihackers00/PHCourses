@@ -1,0 +1,4 @@
+DECLARING ARGUMENTS AND DIRECTLY SHOWING IT:
+---------------------------------------------
+    [1]: Here down below we will take the argument and 
+         then it will print directly.

@@ -1,0 +1,8 @@
+SECOND METHOD OF FOR LOOP DECLARATION:
+-------------------------------------
+    [1]: In Second method we will declare for loop by two parameter 
+         also we can use one paramete, And basically what are that 
+         parameter is. If you see down below that example of for 
+         loop, there we declare something like this: {1..5..1}, So, 
+         This first portion which "1..5" its mean repeat 5 time time 
+         and "..1" this last portion increment it by one.

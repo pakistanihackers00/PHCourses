@@ -1,0 +1,12 @@
+number=-4                   # Declarign a variable.
+if (( $number > 1))         # Here is just like other languages but we 
+                            # will put double parenthesis braces.
+then
+echo "Condition is true"    # 1st True Statement.
+elif [ $number -eq 1 ]      # If we write square braces then we give at 
+                            # least one space around the square braces.
+then
+echo "Condition is equall"  # 2nd True Statement.
+else
+echo "condition is false"   # Default Statement.
+fi

@@ -1,0 +1,12 @@
+TRICKS WITH MANAGING FILES:
+---------------------------
+            [1]: Here We will use if statement for these below flags:      
+                    # -e for file exist or not.
+                    # -s for file is empty or not.
+                    # -f is to check is this is a file.
+                    # -d is to check is this is a directory.
+                    # -b is this is binary file.
+                    # -c is this is content(alphabets ,numbers) file.
+                    # -r is this file/directory have read permission.
+                    # -w is this file/directory have write permission.
+                    # -x is this file/directory have a execute permission.

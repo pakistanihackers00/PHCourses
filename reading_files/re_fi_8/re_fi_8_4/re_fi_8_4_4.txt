@@ -1,0 +1,10 @@
+FOURTH METHOD OF FOR LOOP DECLARATION:
+-------------------------------------
+    [1]: In this Method will have three parameter, and this 
+         method is used in most programming Language
+    
+    [2]: How to declare it?
+        |--> for (initialization statement; test expression; update statement) {
+                // statements
+                }
+                

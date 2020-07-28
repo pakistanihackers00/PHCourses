@@ -1,0 +1,5 @@
+THIRD METHOD OF FOR LOOP DECLARATION:
+-------------------------------------
+    [1]: In Method we will declare for loop by directly 
+         taking variable and it will execute 1st variable 
+         then second and so on...

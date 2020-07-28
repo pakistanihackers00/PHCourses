@@ -1,0 +1,4 @@
+for(( var=0; var<5 ;var++))             # This method mostly used in every language. Its a decaration part of For Loop.
+do
+echo "$var: Hello World!"               # Printing the Variable.
+done

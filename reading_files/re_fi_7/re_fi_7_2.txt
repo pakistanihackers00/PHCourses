@@ -1,0 +1,6 @@
+SECOND METHOD OF PRINTING THE ARITHEMATIC OPERATION:
+-----------------------------------------------------
+    [1]: How to Print arithematic operation?
+         |--> Well in the below example we just declare same that 
+              Varaible then we apply some calculation plus we  
+              also print that by the 2nd method.

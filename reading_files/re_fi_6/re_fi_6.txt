@@ -1,0 +1,22 @@
+LOGIC OPERATORS:
+-----------------
+    [1]: What is Logic Operator?
+        |--> A logical operator is a symbol or word used to connect 
+             two or more expressions such that the value of the compound 
+             expression produced depends only on that of the original 
+             expressions and on the meaning of the operator.[1] Common 
+             logical operators include AND, OR, and NOT.
+
+    [2]: Kinds in Shell Script?
+             (i):   AND denoted by '&&' or '-a'
+             (ii):  OR denoted by '||' or '-o'
+             (iii): NOT denoted by '!'
+    
+    [3]: We write here only NOT Logic Operator, The another LOgic Operator 
+         will be in that Topics.
+         (i): What is NOT Logic Operator?
+              |--> This inverts a true condition into false and vice versa.
+                   like:
+                    X      NOT     Y
+                    false          true
+                    true           false

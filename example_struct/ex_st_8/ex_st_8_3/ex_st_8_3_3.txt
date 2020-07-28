@@ -1,0 +1,5 @@
+for var in ls pwd date                                  # It will print that commands.
+do
+    echo -e "------$var------"                          # It Will show that command.
+    $var                                                # And it will show that Command output.
+done

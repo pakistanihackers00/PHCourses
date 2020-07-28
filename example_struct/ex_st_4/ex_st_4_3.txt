@@ -1,0 +1,2 @@
+echo $@         # It will Print the whle array.
+echo $#         # It will print lenght of array.

@@ -1,0 +1,25 @@
+CASE STATEMENT WITH STRICT PATERN:
+----------------------------------
+    [1]: What is Case Statement?
+         |--> A conditional control structure that appears in most 
+              modern programming languages and allows a selection to 
+              be made between several sets of program statements; the 
+              choice is dependent on the value of some expression. 
+              The case statement is a more general structure than the 
+              if then else statement, which allows a choice between 
+              only two sets of statements.
+        
+    [2]: Usage?
+         |--> case WORD in [PATTERN [| PATTERN]...) COMMANDS ;;]... esac
+                Execute commands based on pattern matching.
+                Selectively execute COMMANDS based upon WORD matching PATTERN.  
+                The '|' is used to separate multiple patterns.
+              Exit Status:
+                Returns the status of the last command executed.
+
+    [3]: Strict Pattern?
+         |--> Strict Pattern mean when you declare some specific word or charactor
+              in cases matching, Thats's called Strict Patern.
+              
+    [4]: Example?
+         |--> Examples is given below in the Example Section.              

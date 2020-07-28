@@ -1,0 +1,22 @@
+COMMAND LINE ARGUMENTS:
+-----------------------
+    [1]: The Unix shell is used to run commands, and it allows users 
+         to pass run time arguments to these commands.
+         These arguments, also known as command line parameters, 
+         that allows the users to either control the flow of the 
+         command or to specify the input data for the command. 
+
+    [2]: What thing we use in Shell Script for argument?
+         |--> For arguments we use $0, $1, $2,..... and so on. Here 
+              $0 mean that file name and $1 mean the first argument 
+              and another is like that, that $2 is the 2nd arguments
+              and so on... 
+
+    [2]: Usage?
+         fileName arg1 arg2 arg3 .....
+    
+    [4]: Example?
+         |--> ./fileName.sh pakistani hackers
+               echo "argument_1:  $1"
+               echo "argument_2:  $2"
+               

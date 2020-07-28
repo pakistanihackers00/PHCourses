@@ -1,0 +1,22 @@
+WHILE LOOP:
+-----------
+    [1]: What is While Loop?
+         |--> A while loop is one of the most common types of loop. 
+              The main characteristic of a while loop is that it will 
+              repeat a set of instructions based on a condition. As 
+              far as the loop returns a boolean value of TRUE, the code 
+              inside it will keep repeating. We use this kind of loop 
+              when we don't know the exact number of times a code needs 
+              to be executed. 
+    
+    [2]: Usage?
+            |-->while COMMANDS; do COMMANDS; done
+                |-->Execute commands as long as a test succeeds.
+                |-->Expand and execute COMMANDS as long as the final command in the
+                    `while' COMMANDS has an exit status of zero.
+        
+            |-->Exit Status:
+                    Returns the status of the last command executed.
+            
+    [3]: Example?
+         |--> Examples is given below in the Example Section.             

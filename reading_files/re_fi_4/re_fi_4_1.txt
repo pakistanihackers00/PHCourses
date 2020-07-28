@@ -1,0 +1,5 @@
+SAVING ARGUMENTS IN VARIABLE THEN PRINT IT:
+-------------------------------------------
+    [1]: Here we save two argument in variable after whrn you  
+         give arguments and then we print that argument through 
+         variables in down below example.

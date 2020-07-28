@@ -1,0 +1,10 @@
+Variable:
+---------
+    [1]: What is Variable?
+        |--> Variable mean reserving storage/Space in RAM.
+    [2]: Purpose Of Variable?
+        |--> We Declare Variable for many purpose its dependent on your Program but 
+             generally we declare variable easily understanding and for making our
+             beautiful & undestandable program.
+    [3]: Example?
+        |--> Examples is given below in the Example Section.

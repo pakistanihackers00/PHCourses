@@ -1,0 +1,13 @@
+read -p "Enter a charactor to find it regular expression patern: " checker          # Message and take input.
+case $checker in                                                                    # Case Startup.
+    [a-z] )                                                                             # Case 1.
+        echo "The $checker is come in a to z alphabets";;                                   # Statement.
+    [A-Z] )                                                                             #Case 2.
+        echo "The $checker is come in A to Z alphabets";;                                   # Statement.
+    [0-9] )                                                                             # Case 3.
+        echo "The $checker is come in 0 to 9 Numbers";;                                     # Statement.
+    ? )                                                                                 # Case 4.
+        echo "The $checker is come in special charactors";;                                 # Statement.
+    * )                                                                                 # Default Case
+        echo "Unknown Charactor you type!"                                                  # By default Statement.
+esac                                                                                # Case Endup.

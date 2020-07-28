@@ -1,0 +1,7 @@
+CONDITIONAL OPERATOR:
+---------------------
+    [1]: What is Coditional Operator?
+         |--> The Conditional Operator in C, also called a Ternary operator,
+              is one of the Operators, which used in the decision-making 
+              process. The C Programming Conditional Operator returns the 
+              statement depends upon the given expression result.

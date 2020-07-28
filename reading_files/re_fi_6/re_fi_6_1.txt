@@ -1,0 +1,11 @@
+AND LOGIC OPERATOR:
+--------------------
+    [1]: What is AND logic Operator?
+         |-->  If both the operands are true, then the condition becomes 
+               true otherwise false.
+               like:
+               X        Y       X AND Y
+               false 	false 	false
+               false 	true 	false
+               true 	false 	false
+               true 	true 	true

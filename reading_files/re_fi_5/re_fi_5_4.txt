@@ -1,0 +1,17 @@
+SELECT:
+-------
+    [1]:What is Select Loop?
+        |--> It is Basically loop But It is mostly use in case Operator, thats 
+             why i write it here and if you confuse, that what is loop. So, 
+             Basically loop mean's to 'repeat'. But we explain it later. 
+             The select loop provides an easy way to create a numbered menu 
+             from which users can select options. It is useful when you need
+             to ask the user to choose one or more items from a list of choices.
+    [2]: Usage?
+        |--> select var in word1 word2 ... wordN
+                do
+                    Statement(s) to be executed for every word.
+                done
+
+    [3]: Example?
+         |--> Examples is given below in the Example Section.     

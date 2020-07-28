@@ -1,0 +1,4 @@
+FIRST METHOD OF FOR LOOP DECLARATION:
+-------------------------------------
+    [1]: In the first method we will declare for loop by some number 
+         like below example.

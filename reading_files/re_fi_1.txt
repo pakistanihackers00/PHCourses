@@ -1,0 +1,10 @@
+Builten Variables:
+------------------
+    [1]: What is Builten variable?
+        |--> Builten Varaible means thats Variables which is already taked by linux, like:
+             BASH, BASH_VERSION, LS, etc...
+    [2]: What is '$' this signature?
+        |--> Through this $ Signature Shell Script know that it is varaible. After Examples 
+             you will be understand better!
+    [2]: Example?
+        |--> Examples is given below in the Example Section.

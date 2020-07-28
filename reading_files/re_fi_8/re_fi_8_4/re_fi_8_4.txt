@@ -1,0 +1,24 @@
+FOR LOOP:
+---------
+    [1]: What is For Loop?
+         |--> A for loop enables a particular set of conditions 
+              to be executed repeatedly until a condition is satisfied. 
+              Imagine a situation where you would have to print numbers 
+              from 1 to 100. What would you do? Will you type in the 
+              printf command a hundred times or try to copy/paste it? 
+              This simple task would take an eternity. Using a for 
+              loop you can perform this action in three statements. 
+              This is the most basic example of the for loop. It can 
+              also be used in many advanced scenarios depending on 
+              the problem statement. 
+
+    [2]: Usage?
+        |--> for NAME [in WORDS ... ] ; do COMMANDS; done
+                |--> Execute commands for each member in a list.
+                |--> The `for' loop executes a sequence of commands for each member in a
+                     list of items.  If `in WORDS ...;' is not present, then `in "$@"' is
+                     assumed.  For each element in WORDS, NAME is set to that element, and
+                     the COMMANDS are executed.
+
+        |--> Exit Status:
+                Returns the status of the last command executed.              

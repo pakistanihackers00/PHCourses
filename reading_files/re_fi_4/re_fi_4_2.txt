@@ -1,0 +1,7 @@
+SAVING ARGUMENTS IN ARRAY THEN PRINT IT:
+-------------------------------------------
+    [1]: Here we save two argument in array after when give arguments and 
+         then we print that argument through variables 
+         in down below example.
+         Look at the example you will better understand it.
+         

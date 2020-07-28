@@ -1,0 +1,4 @@
+for var in 1 2 3 4 5                  # For Loof Declaration, It will goeas 5 Times.
+    do
+        echo $var                     # Printing that 5 Times.
+    done

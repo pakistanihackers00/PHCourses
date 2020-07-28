@@ -1,0 +1,11 @@
+OR LOGIC OPERATOR:
+------------------
+    [1]: What is OR Logic Operator?
+         |--> If one of the operands is true, then the condition 
+              becomes true.
+              like:
+               X          Y               X OR Y
+               false      false           false
+               false      true            true
+               true       false           true
+               true       true            true

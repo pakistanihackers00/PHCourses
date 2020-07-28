@@ -1,0 +1,15 @@
+READING FILE WITH IFS COMMAND:
+--------------------------------
+    [1]: What is IFS command?
+            |--> The IFS is a special shell variable.
+            |--> IFS variable is commonly used with read command, parameter expansions 
+                 and command substitution.
+            |--> You can change the value of IFS as per your requirments.
+            |--> The Internal Field Separator (IFS) that is used for word splitting 
+                 after expansion and to split lines into words with the read builtin 
+                command.
+            |--> The default value is <space><tab><newline>. You can print it with  
+                 the following command:
+                 cat -etv <<<"$IFS"
+                 
+    [2]: So down below we use IFS with while loop to read a file.

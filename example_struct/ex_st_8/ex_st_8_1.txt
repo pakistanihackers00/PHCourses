@@ -1,0 +1,6 @@
+number=1                                        # Declaration of Var.
+    while [ $number -lt 6 ]                     # Startup of while loop.
+    do
+        echo "$number: Hello World!"
+        ((number++))                            # Pre Incrementing.
+    done                                        # Endup of while loop.

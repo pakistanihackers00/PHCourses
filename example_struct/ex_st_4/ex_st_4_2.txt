@@ -1,0 +1,2 @@
+array_1=("$@")      # In shell script taking argument is an array we will write "$@".
+echo ${array_1[0]}, ${array_1[1]}

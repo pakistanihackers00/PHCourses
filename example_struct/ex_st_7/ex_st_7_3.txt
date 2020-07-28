@@ -1,0 +1,14 @@
+num_1=20
+num_2=7
+echo "Addition:         \c" 
+echo $num_1+$num_2 | bc         # '|' mean pipline, 'bc' mean basic Calculation.
+echo "Subtraction:      \c"
+echo $num_1-$num_2 | bc
+echo "Multiplication:   \c"
+echo $num_1*$num_2 | bc
+echo "Division:         \c"
+echo $num_1/$num_2 | bc         # "scale=2" mean write decimal only two digits after point.
+echo "Modulus:          \c"
+echo $num_1%$num_2 | bc
+echo "Taking Power     \c"
+echo  $num_1^2 | bc -l           # '-l' flag mean "math library".

@@ -1,0 +1,28 @@
+
+
+HELP:
+-----
+ 
+ How to run this on MAC OS:
+ 
+ First go to the directory where you download it. In my case I download it in "Downloads".
+ So, I will go the Downloads folder first then I will Run these below commands:
+ 
+ root@mymac% cd Downloads
+ root@mymac% chmod -R 755 courses-PH
+ root@mymac% cd courses-PH/bash_Course/
+ root@mymac% ./fullcourse.sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+

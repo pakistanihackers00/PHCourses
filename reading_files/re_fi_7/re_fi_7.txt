@@ -1,0 +1,7 @@
+ARITHEMATIC OPERATION:
+----------------------
+    [1]: What is Arithematic Operation?
+         |--> The basic arithmetic operations for real numbers are 
+              addition, subtraction, multiplication, and division. 
+              The basic arithmetic properties are the commutative, 
+              associative, and distributive properties.

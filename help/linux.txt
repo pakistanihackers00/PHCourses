@@ -1,0 +1,12 @@
+HELP:
+-----
+ 
+ How to run this on LINUX OS:
+ 
+ First go to the directory where you download it. In my case I download it in "Downloads".
+ So, I will go the Downloads folder first then I will Run these below commands:
+ 
+ root@myuser: cd Downloads
+ root@myuser: chmod -R +x courses-PH
+ root@myuser: cd courses-PH/bash_Course/
+ root@myuser: ./fullcourse.sh

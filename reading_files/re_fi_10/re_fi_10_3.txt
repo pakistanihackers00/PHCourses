@@ -1,0 +1,4 @@
+2ND METHOD OF READING FILE:
+----------------------------
+    [1]: Here in this method we will just use for by taking 
+         input of file, Fr understanding watch example.

@@ -1,0 +1,17 @@
+select var in Frost Mini Mark Jhoni Mirror              # Select Startup.
+    do
+        case $var in                                        # Case Startup.
+            Mini )                                              # Case 1.
+                echo "$var is Killed!";;                            # Statement.
+            Mark )                                              # Case 1.
+                echo "$var is still Alive!";;                       # Statement.
+            Jhoni )                                             # Case 1.
+                echo "$var is Killed!";;                            # Statement.
+            Frost )                                             # Case 1.
+                echo "$var is still Alive!";;                       # Statement.
+            Mirror )                                            # Case 1.
+                echo "$var is Murdered!";;                          # Statement.
+            * )                                                 # Default Case
+                echo "Not Included!";;                              # By default Statement.
+        esac                                                # Case Endup.
+    done                                                Select Endup.

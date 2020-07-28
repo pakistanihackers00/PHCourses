@@ -1,0 +1,3 @@
+echo 1: "Hello World!"      # Using "echo" and Double Quotes for printing message.
+echo 2: 'Hello world!'      # Using "echo" and single Quotes for printing message.
+echo 3: Hello World!        # Using "echo" and Without Quotes for printing message.

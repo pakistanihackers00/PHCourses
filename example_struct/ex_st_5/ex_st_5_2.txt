@@ -1,0 +1,15 @@
+read -p "Enter exact name of which vehicle you want to check on Rent: " vehicle    # Message and take input.
+case $vehicle in                                                 # Case Startup.
+    "truck" )                                                        # Case 1.
+        echo "Rent of $vehicle is 200$ Dollar.";;                        # Statement.
+    "car" )                                                          #Case 2.
+        echo "Rent of $vehicle is 150$ Dollar.";;                        # Statement.
+    "van" )                                                          # Case 3.
+        echo "Rent of $vehicle is 100$ Dollar.";;                        # Statement.
+    "motorcycle" )                                                   # Case 4.
+        echo "Rent of $vehicle is 50$ Dollar.";;                         # Statement.
+    "bicycle" )                                                      # Case 5.
+        echo "Rent of $vehicle is 10$ Dollar.";;                         # Statement.
+    * )                                                              # Default Case.
+        echo "Unknown Vehicle!"                                          # By default Statement.
+esac                                                             # Case Endup.

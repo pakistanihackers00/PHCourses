@@ -1,0 +1,2 @@
+var="Mark"      # Declarition of variable and assighning string.
+echo $var       # Printing varible.
