@@ -1,0 +1,4 @@
+1: echo $BASH               # Print BASH variable which is builten variable.
+2: echo $BASH_VERSION       # Print BASH_VERSION variable which is builten variable.
+3: echo $PWD                # Print PWD variable which is builten variable.
+4: echo $HOME               # Print HOME variable which is builten variable.
