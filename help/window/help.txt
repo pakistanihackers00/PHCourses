@@ -1,0 +1,7 @@
+HELP:
+------
+  Check this help if its not worked then go 'window.pdf' file check that, But first try this.
+  So, I download this file Downloads file So I n my case i will write like downn below code.
+  
+  C:/Users/myuser> cd Download/sh_courses-PH/
+  C:/User/myuser/Downloads/sh_courses-PH> bash fullcourse.sh
