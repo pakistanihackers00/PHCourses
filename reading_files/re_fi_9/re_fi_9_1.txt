@@ -1,0 +1,5 @@
+DECLARING ARRAY AND PRINT:
+---------------------------
+        [1]: Here down in below Example we will just save a 
+             array and then will print it and also we unset one
+             value and then print that array.

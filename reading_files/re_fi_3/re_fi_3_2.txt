@@ -1,0 +1,6 @@
+USAGE OF READ FLAGs:
+--------------
+    [1]: For using the flags we writen already example. In that example we use only 
+         two flag, "-p" is use to take input in this same line after taking input
+         you can go to next line and "-s" flag mean whatever you type it will be 
+         invisible.

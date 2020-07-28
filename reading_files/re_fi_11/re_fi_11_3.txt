@@ -1,0 +1,8 @@
+TAKING ARGUMENTS/PARAMETER IN FUNCTION:
+----------------------------------------
+    [1]: Now its same as first and second wa, but what we gonna do, 
+         is just taking argument or parameter. But how can we take 
+         arguments/parameter in function, By using $1, $2, $3, $.... 
+         and so on. So, here '$1' mean it's first arguments/parameter 
+         and '$2' is the 2nd arguments/parameter and so on.
+         For fully understanding look at to the example down below:

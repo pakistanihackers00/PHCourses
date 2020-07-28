@@ -1,0 +1,6 @@
+DEFAULT VARIABLE FOR READ:
+--------------------------
+    [1]: What will happen if we didn't declare variable for "read" keyword?
+            |--> When we didn't declare any variable for read for saving some data
+                 then Shell Script alread made a variable, which name is "REPLY",
+                 Shell Script Save it by default in that variable.

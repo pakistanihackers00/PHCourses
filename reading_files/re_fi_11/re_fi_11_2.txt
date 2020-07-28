@@ -1,0 +1,6 @@
+2nd METHOD DECLARATION & CALLING OF FUNCTION:
+-------------------------------------
+    [1]: How to Declare function?
+         |--> Its same as the first one, but the difference is remove 
+              the 'function' keyword, like this --> name { COMMANDS ; }
+         |--> For calling just type --> name;

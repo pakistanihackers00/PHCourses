@@ -1,0 +1,6 @@
+DECLARING ARRAY IS A INPUT AND PRINTING IT:
+---------------------------
+        [1]: Here down in below Example we will take array 
+             is an input through read keyword and '-a' flag 
+             and then we print that array with different 
+             techniques, just see example.

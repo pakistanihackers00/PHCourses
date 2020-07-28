@@ -1,0 +1,5 @@
+FIRST METHOD DECLARATION & CALLING OF FUNCTION:
+-------------------------------------
+    [1]: How to Declare function?
+         |--> function name { COMMANDS ; }
+         |--> For calling just type --> name;
